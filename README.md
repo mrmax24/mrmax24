@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, my name is Maks</h1>
-<h3 align="center">I have been developing the backend for web applications since 2023 and am passionate about native mobile development with Kotlin.</h3>
+<h1 align="left">Hi 👋, my name is Maks</h1>
+<h3 align="left">I have been developing the backend for web applications since 2023 and am passionate about native mobile development with Kotlin.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
