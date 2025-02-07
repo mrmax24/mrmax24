@@ -13,51 +13,33 @@ I have been developing the backend for web applications since 2023 and am passio
 ### Skills
 
 
-<p align="left">
+<p align="left" style="font-size: 0;">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" 
-         width="36" height="36" alt="Java" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" 
-         width="36" height="36" alt="Kotlin" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" 
-         width="36" height="36" alt="Git" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
-         width="36" height="36" alt="MySQL" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" 
-         width="36" height="36" alt="PostgreSQL" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" 
-         width="36" height="36" alt="MongoDB" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://render.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" 
-         width="36" height="36" alt="Render" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/f62e416f-d145-4e22-8459-07a68cf26b99" 
-         width="36" height="36" alt="Amazon Web Services" 
-         style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://github.com/user-attachments/assets/f62e416f-d145-4e22-8459-07a68cf26b99" width="36" height="36" alt="Amazon Web Services" style="margin-right: 10px; display: inline-block; vertical-align: middle;" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
-         width="36" height="36" alt="Docker" 
-         style="display: inline-block; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="display: inline-block; vertical-align: middle;" />
   </a>
 </p>
 
