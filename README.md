@@ -45,12 +45,12 @@ I have been developing the backend for web applications since 2023 and am passio
 
   <a href="https://render.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" 
-         width="36" height="36" alt="Render" style="margin-right: 20px;" />
+         width="36" height="36" alt="Render" style="margin-right: 30px;" />
   </a>
 
   <a href="https://www.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
-         width="36" height="36" alt="Amazon Web Services" style="margin-right: 20px;" />
+         width="36" height="36" alt="Amazon Web Services" style="margin-right: 30px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
